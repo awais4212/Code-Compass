@@ -55,7 +55,7 @@ code_compass/
 ### 1. Clone and install
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/awais4212/Code-Compass.git
 cd code_compass
 npm install
 ```
