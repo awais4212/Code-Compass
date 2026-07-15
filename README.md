@@ -1,5 +1,7 @@
 # Code Compass 🧭
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-code--compass--eight.vercel.app-8b5cf6?style=for-the-badge&logo=vercel&logoColor=white)](https://code-compass-eight.vercel.app/)
+
 Code Compass helps developers and students figure out the right technology stack for a new project idea — instantly. Just describe what you're building, and get a clear recommendation covering frontend, backend, database, AI tools, and deployment, along with the reasoning behind each choice.
 
 No more decision paralysis. No more piecing together advice from a dozen blog posts. Just a clear starting point, in seconds.
