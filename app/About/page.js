@@ -13,15 +13,15 @@ const Page = () => {
           staring at a blank screen, unsure which frontend, backend, or
           database to pick. Should you use Next.js or plain React? SQL or
           NoSQL? Where should you even deploy it? For beginners, this decision
-          alone can eat up hours — or lead to picking a stack that doesn&apos;t
+          alone can eat up hours  or lead to picking a stack that doesn&apos;t
           fit the project at all.
         </p>
 
         <p className="mb-8 leading-relaxed">
           Code Compass removes that friction. Just describe your project idea
           in a few words, and get an instant, clear recommendation covering
-          everything you need to get started — frontend, backend, database,
-          relevant AI tools, and deployment — along with a short explanation
+          everything you need to get started  frontend, backend, database,
+          relevant AI tools, and deployment  along with a short explanation
           of why that combination works well together.
         </p>
 
@@ -51,7 +51,7 @@ const Page = () => {
           Why it matters
         </h2>
         <p className="leading-relaxed mb-10">
-          The goal isn&apos;t just to give you an answer — it&apos;s to help
+          The goal isn&apos;t just to give you an answer it&apos;s to help
           you understand why that stack fits, so you walk away with a
           recommendation you can trust and build on immediately. No more
           decision paralysis. No more piecing together advice from a dozen
